@@ -1,0 +1,7 @@
+Page 2, Column 1, Section II, below Eq. (1), second line:
+    From: $\mathbf{b}_f$
+    To:   $\mathbf{b}_r$
+    
+Page 3, Column 1, Section IV, Paragraph 2, Line 7:
+    From: $x_K^-$
+    To:   $x_k^-$
