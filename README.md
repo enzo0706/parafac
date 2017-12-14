@@ -58,4 +58,4 @@ If you have any questions about the codes or the papers, please send email to mi
 For your convenience, please send your email using a business mailbox or gmail. Mails from other free mailboxes (e.g. 163.com, qq.com, ...) may be classified as trash or spam.
 
 # History
-2017.12.14 The ALS-MPPM algorithm is uploaded. 
+2017.12.14 The codes of the ALS-MPPM algorithm and its test codes are uploaded. 
