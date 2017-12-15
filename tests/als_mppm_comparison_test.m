@@ -36,6 +36,9 @@
 % History:
 %   2017.12.24 initial committed by Ming Shi
 %
+% Copyright (C) 2017 Ming Shi
+% Copyright (C) 2017 EMI Lab, Dept. of E.E., Fudan University
+%
 
 clear all
 close all

@@ -99,6 +99,9 @@ function [A,B,C,Iter,Err,Fail] = als_mppm_cpd3(X,R,Eps,IterMax,A,B,C,M,L)
 %
 %   2017.12.14 initial committed by Ming Shi
 %
+% Copyright (C) 2017 Ming Shi
+% Copyright (C) 2017 EMI Lab, Dept. of E.E., Fudan University
+%
 
     %% Check input parameters
     if nargin<2;    error('At least 2 parameters are needed.'); end
